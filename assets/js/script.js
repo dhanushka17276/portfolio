@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Results Slideshow Popup (content-hub.html)
   const galleries = {
     viral: [
-      "assets/images/views/5.png",
+      "assets/images/views/5.PNG",
     "assets/images/views/1.png",
      "assets/images/views/2.png",
      "assets/images/views/3.png",
