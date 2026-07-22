@@ -112,19 +112,19 @@ document.addEventListener('DOMContentLoaded', () => {
   const galleries = {
     viral: [
       "assets/images/views/5.PNG",
-    "assets/images/views/1.png",
-     "assets/images/views/2.png",
-     "assets/images/views/3.png",
-      "assets/images/views/4.png"
+    "assets/images/views/1.PNG",
+     "assets/images/views/2.PNG",
+     "assets/images/views/3.PNG",
+      "assets/images/views/4.PNG"
     ],
     ads: [
-      "assets/images/orders/1.png",
-    "assets/images/orders/2.png",
-     "assets/images/orders/3.png",
-     "assets/images/orders/4.png",
-      "assets/images/orders/5.png",
- "assets/images/orders/6.png",
- "assets/images/orders/7.png",
+      "assets/images/orders/1.PNG",
+    "assets/images/orders/2.PNG",
+     "assets/images/orders/3.PNG",
+     "assets/images/orders/4.PNG",
+      "assets/images/orders/5.PNG",
+ "assets/images/orders/6.PNG",
+ "assets/images/orders/7.PNG",
     ]
   };
 
