@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
       "assets/images/views/4.png"
     ],
     ads: [
-      "assets/images/orders/1.png",
+      "https://github.com/dhanushka17276/portfolio/blob/main/assets/images/orders/1.PNG",
     "assets/images/orders/2.png",
      "assets/images/orders/3.png",
      "assets/images/orders/4.png",
